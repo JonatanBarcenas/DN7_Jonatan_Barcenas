@@ -8,11 +8,12 @@ function onButtonClick(evt) {
 
     for (var i = 0; i < classes.length; i++) {
         var c = classes[i];
-    }
         if (c == "greenButton") {
             isGreen = true;
             break;
         }
+    }
+       
 
         if (isGreen) {
 
@@ -24,7 +25,7 @@ function onButtonClick(evt) {
             b.className = "btn greenButton";
         }
 
-    var t = document.getElementById(sampleTable);
+    var t = document.getElementById("sampleTable");
 
     var currentHtml = t.innerHTML;
     t.innerHTML += "<tr><td>" + b.getAttribute("name") + "</td><td>" + moment(new Date().format("DD-MM-YYYY HH:mm:ss")) + "</td></tr>" ;
@@ -47,7 +48,7 @@ for (var i = 0; i < buttons.length; i++) {
             style: {
                 main: {
                     background: "#364685",
-                    color: "#fff",
+                    color: "#fff"
                 },
             },
         };
