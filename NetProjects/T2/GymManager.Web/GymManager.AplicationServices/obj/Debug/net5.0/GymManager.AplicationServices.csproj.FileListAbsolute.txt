@@ -1,0 +1,15 @@
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.AplicationServices.deps.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.AplicationServices.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.AplicationServices.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.csproj.CopyComplete
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\obj\Debug\net5.0\refint\GymManager.AplicationServices.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\NetProjects\T2\GymManager.Web\GymManager.AplicationServices\obj\Debug\net5.0\ref\GymManager.AplicationServices.dll

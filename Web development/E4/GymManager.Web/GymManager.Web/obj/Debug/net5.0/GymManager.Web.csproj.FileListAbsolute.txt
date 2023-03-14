@@ -1132,3 +1132,4 @@ C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\Web development\E
 C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\Web development\E4\GymManager.Web\GymManager.Web\obj\Debug\net5.0\ref\GymManager.Web.dll
 C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\Web development\E4\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Attendance\MemberOut.cshtml.g.cs
 C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\Web development\E4\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Attendance\MemberIn.cshtml.g.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\Web development\E4\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Attendance\Index.cshtml.g.cs

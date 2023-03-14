@@ -1,0 +1,16 @@
+﻿@model List<GymManager.Core.Members.Member>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+
+    <h1>Welcome to GymManager</h1>
+
+    @section HeaderRightUser {
+             <a class="navbar-brand" href="#">Jonatan Barcenas</a>
+    }
+
+    @await Html.PartialAsync("~/Views/Shared/_MemberList.cshtml", Model)
+
+</div>
