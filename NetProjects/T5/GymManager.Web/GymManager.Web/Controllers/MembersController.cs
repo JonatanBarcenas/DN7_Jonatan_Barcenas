@@ -1,7 +1,8 @@
 ﻿using GymManager.AplicationServices.Members;
 using GymManager.Core.Members;
-using GymManager.Web.Models;
+using GymManager.Web.Model;
 using Microsoft.AspNetCore.Mvc;
+using Serilog;
 using System.Collections.Generic;
 
 namespace GymManager.Web.Controllers
@@ -14,7 +15,7 @@ namespace GymManager.Web.Controllers
         }  
         public IActionResult Index()
         {
-            List<Member> members = _membersAppService.GetMembers();
+			List<Member> members = _membersAppService.GetMembers();
             MemberListViewModel viewModel = new MemberListViewModel();  
             viewModel.NewMembersCount= 2;
             viewModel.Members = members;

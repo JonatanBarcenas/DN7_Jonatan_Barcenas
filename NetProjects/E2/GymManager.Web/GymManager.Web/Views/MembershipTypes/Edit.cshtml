@@ -32,7 +32,7 @@
 
 		<div class="mb-3">
 			<label asp-for="Cost" class="form-label">Cost</label>
-			<input type="text" class="form-control" asp-for="Cost" />
+			<input type="number" class="form-control" asp-for="Cost" />
 			<span asp-validation-for="Cost" class="text-danger"></span>
 		</div>
 
@@ -46,7 +46,7 @@
 
 		<div class="mb-3">
 			<label asp-for="Duration" class="form-label">Duration</label>
-			<input class="form-control" asp-for="Duration" />
+			<input type="number" asp-for="Duration" />
 			<span asp-validation-for="Duration" class="text-danger"></span>
 		</div>
 

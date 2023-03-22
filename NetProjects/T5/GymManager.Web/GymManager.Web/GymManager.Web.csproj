@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Serilog" Version="2.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\GymManager.AplicationServices\GymManager.AplicationServices.csproj" />
     <ProjectReference Include="..\GymManager.Core\GymManager.Core.csproj" />
   </ItemGroup>

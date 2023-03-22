@@ -40,9 +40,7 @@ namespace GymManager.Web.Controllers
         public IActionResult Edit(int membershipTypeId)
         {
             MembershipType membershipType = _membershipTypesAppService.GetMembershipType(membershipTypeId);
-           
-
-            return View(membershipType);
+           return View(membershipType);
         }
 
         [HttpPost]

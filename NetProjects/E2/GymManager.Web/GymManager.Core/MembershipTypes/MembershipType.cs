@@ -14,7 +14,7 @@ namespace GymManager.Core.MembershipTypes
 		[StringLength(100)]
 		[Required]
 		public string Name { get; set; }
-		[RegularExpression(@"^\d+\.\d{0,2}$")]
+		
 		[Required]
 		public double Cost { get; set; }
 		[BindProperty, DisplayFormat(DataFormatString = "{0:dd-MM-yyyy}", ApplyFormatInEditMode = true)]
