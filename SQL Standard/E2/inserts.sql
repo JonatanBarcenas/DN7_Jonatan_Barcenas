@@ -78,6 +78,13 @@ INSERT INTO equipmenttypes(equipmenttype_id, name) VALUES
   (4,"Vitamins","Vitamins",4),
   (5,"Protein Bars","Protein Bars",5);
   
+   INSERT INTO sales(sale_id, member_id, quantity, sale_date, productinventory_id) VALUES
+	(2, 2, 1, NOW(), 3),
+    (3, 3, 3, NOW(), 2),
+    (4, 4, 2, NOW(), 5),
+    (5, 5, 1, NOW(), 4);
+ 
+  
   
   
   
