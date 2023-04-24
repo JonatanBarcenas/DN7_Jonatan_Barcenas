@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/UYw59jOdm8JC+1n5uOfKL3jbbgRpvSk88uPkpTO+cSdSnJ/gtk22hf5dNedjRDodq9jRa9meCoQL6aNOjMSyw==",
+  "dgSpecHash": "XS/+cQScwM+TEmb3VHzl5IF/0L9cNfu4dWtqK5sJeOjO5SnaeULayCXlpaMaKdxXPTb0e23pP87m8P3fzMRXZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\NetProjects\\T7\\GymManager.Web\\GymManager.AplicationServices\\GymManager.AplicationServices.csproj",
+  "projectFilePath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\03_NetProjects\\T7\\GymManager.Web\\GymManager.AplicationServices\\GymManager.AplicationServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.10\\microsoft.aspnetcore.mvc.razor.extensions.5.0.10.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.10\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.10.nupkg.sha512",

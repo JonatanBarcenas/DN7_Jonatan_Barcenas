@@ -769,11 +769,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\NetProjects\\T7\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
       "projectName": "GymManager.Core",
-      "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\NetProjects\\T7\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
+      "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\NetProjects\\T7\\GymManager.Web\\GymManager.Core\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",

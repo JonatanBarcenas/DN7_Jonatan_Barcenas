@@ -1084,11 +1084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\NetProjects\\T7\\GymManager.Web\\GymManger.DataAccess\\GymManger.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\03_NetProjects\\T7\\GymManager.Web\\GymManger.DataAccess\\GymManger.DataAccess.csproj",
       "projectName": "GymManger.DataAccess",
-      "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\NetProjects\\T7\\GymManager.Web\\GymManger.DataAccess\\GymManger.DataAccess.csproj",
+      "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\03_NetProjects\\T7\\GymManager.Web\\GymManger.DataAccess\\GymManger.DataAccess.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\NetProjects\\T7\\GymManager.Web\\GymManger.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\03_NetProjects\\T7\\GymManager.Web\\GymManger.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wpcy6VEPBsroFCfXGmdUTHgRn8EvYVoJpHY81RzCo3/LCbGWHivq/pZHt20tKviqzrlKK1yjMfGE3Me3I6/6qg==",
+  "dgSpecHash": "tMog1analj+vxLfmpMyXYHyK4fuV5rI4WPN0FvKEIre75AdFXAW8UWEX+zNr/Ytzhb3Iji519mFkoZJACrRAqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\NetProjects\\T7\\GymManager.Web\\GymManger.DataAccess\\GymManger.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\03_NetProjects\\T7\\GymManager.Web\\GymManger.DataAccess\\GymManger.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonat\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.11\\microsoft.aspnetcore.cryptography.internal.5.0.11.nupkg.sha512",
