@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess.Excersice", "DataAccess.Excersice\DataAccess.Excersice.csproj", "{F5A7B640-1960-4CA8-9FB8-92E6DF70A070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess.Excercise.WebApi", "DataAccess.Excercise.WebApi\DataAccess.Excercise.WebApi.csproj", "{C562B65F-1C1B-4A85-8929-F16B6F8A2EE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A7B640-1960-4CA8-9FB8-92E6DF70A070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A7B640-1960-4CA8-9FB8-92E6DF70A070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A7B640-1960-4CA8-9FB8-92E6DF70A070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A7B640-1960-4CA8-9FB8-92E6DF70A070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C562B65F-1C1B-4A85-8929-F16B6F8A2EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C562B65F-1C1B-4A85-8929-F16B6F8A2EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C562B65F-1C1B-4A85-8929-F16B6F8A2EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C562B65F-1C1B-4A85-8929-F16B6F8A2EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D02FA2-B7EA-4F6C-80D3-A586EC1F4252}
+	EndGlobalSection
+EndGlobal
