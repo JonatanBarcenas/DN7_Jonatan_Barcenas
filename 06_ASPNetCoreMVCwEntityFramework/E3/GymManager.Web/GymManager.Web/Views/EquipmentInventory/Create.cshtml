@@ -1,0 +1,63 @@
+﻿@model GymManager.Web.Models.EquipmentViewModel
+
+@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Head{
+	<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+	<link href="~/lib/jqueryui/jquery-ui.min.css" rel="stylesheet" />
+	<link href="~/lib/jqueryui/jquery-ui.structure.min.css" rel="stylesheet" />
+	<link href="~/lib/jqueryui/jquery-ui.theme.min.css" rel="stylesheet" />
+}
+@section Scripts{
+	<script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+	<script src="~/lib/jqueryui/jquery-ui.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.js"></script>
+	<script src="~/views/equipments/create.js"></script>
+
+}
+<div class="container">
+
+	<h3 class="mt-5">Equipment regitration</h3>
+
+	<form asp-action="Create">
+		<div class="mb-3">
+			<label asp-for="Name" class="form-label">Name</label>
+			<input type="text" class="form-control" asp-for="Name" />
+			<span asp-validation-for="Name" class="text-danger"></span>
+		</div>
+
+		<div class="mb-3">
+			<label asp-for="AcquisitionDate" class="form-label">Acquisition Date</label>
+			<input class="form-control" asp-for="AcquisitionDate" />
+			<span asp-validation-for="AcquisitionDate" class="text-danger"></span>
+		</div>
+
+		<div class="mb-3">
+			<label asp-for="State" class="form-label">State</label>
+			<input type="text" class="form-control" asp-for="State" />
+			<span asp-validation-for="State" class="text-danger"></span>
+		</div>
+
+		
+
+		<div class="mb-3">
+			<label asp-for="EquipmentTypeId" class="form-label">Type</label>
+			<select class="form-control" asp-for="EquipmentTypeId">
+				<option value="1">Multifunction Machines</option>
+				<option value="2">Racks and Multipowers</option>
+				<option value="3">bench</option>
+			</select>
+			<span asp-validation-for="EquipmentTypeId" class="text-danger"></span>
+		</div>
+
+		
+		<button type="submit" class="btn btn-primary mb-3">Submit</button>
+	</form>
+
+</div>
+
+
