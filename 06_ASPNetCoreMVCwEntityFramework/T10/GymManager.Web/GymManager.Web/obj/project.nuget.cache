@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lH5hcuHVCHSLOb7lCX8/V0RedMPuZYWRda6I0A7mp1FvPNHVB49uKSI7kPlGMyLOGdHm8yYxHLRf0TZrHeODSw==",
+  "dgSpecHash": "VGbXo4k0WefqCyXC47JhQCOQaoq+3O15BuoM9QMmKgOIx4d6s8Nap/ZttWNqpa0GIcOHoLUJyO6ceRCDaDCfxQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\06_ASPNetCoreMVCwEntityFramework\\T10\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
   "expectedPackageFiles": [
@@ -76,7 +76,11 @@
     "C:\\Users\\jonat\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\jonat\\.nuget\\packages\\wkhtmltopdf.netcore\\3.0.2\\wkhtmltopdf.netcore.3.0.2.nupkg.sha512"
+    "C:\\Users\\jonat\\.nuget\\packages\\wkhtmltopdf.netcore\\3.0.2\\wkhtmltopdf.netcore.3.0.2.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

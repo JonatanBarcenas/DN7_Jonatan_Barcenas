@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oIfwDHJyZ8mhrxUC/aRYO2raqyoBLAkcw33skmR5oW06Av5VkoSts9YwIFjK73HMy/C/xZfseMECDUa6NBVN+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\07_CRUD\\T2\\DataAccess.Example\\DataAccess.Example\\DataAccess.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\07_CRUD\T1\DataAccess.Example\DataAccessUnitTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\07_CRUD\T1\DataAccess.Example\DataAccessUnitTest\obj\Debug\net5.0\DataAccessUnitTest.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\07_CRUD\T1\DataAccess.Example\DataAccessUnitTest\obj\Debug\net5.0\DataAccessUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\07_CRUD\T1\DataAccess.Example\DataAccessUnitTest\obj\Debug\net5.0\DataAccessUnitTest.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\07_CRUD\T1\DataAccess.Example\DataAccessUnitTest\obj\Debug\net5.0\DataAccessUnitTest.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\DN7_Jonatan_Barcenas\07_CRUD\T1\DataAccess.Example\DataAccessUnitTest\obj\Debug\net5.0\DataAccessUnitTest.csproj.CoreCompileInputs.cache

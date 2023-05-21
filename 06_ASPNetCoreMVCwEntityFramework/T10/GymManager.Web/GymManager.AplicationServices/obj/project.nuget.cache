@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/VlV/YK3B4isDT3aYrBq1fv7DdY6oRwYBt2/XApZqtILFfebowYoVB1u6PQm4Y39/CvsLApTUFamHkjgHog6vg==",
+  "dgSpecHash": "a3B4gwaxz7zrbumGcZqHgWFN6VydRbAVE08ARmxW+oIPoss8A9WVo01fycPykg2AdX3UUwjDezeg1LheCZf8KA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\DN7_Jonatan_Barcenas\\06_ASPNetCoreMVCwEntityFramework\\T10\\GymManager.Web\\GymManager.AplicationServices\\GymManager.AplicationServices.csproj",
   "expectedPackageFiles": [
@@ -40,7 +40,10 @@
     "C:\\Users\\jonat\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
-    "C:\\Users\\jonat\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    "C:\\Users\\jonat\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
